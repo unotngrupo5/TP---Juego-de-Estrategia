@@ -1,6 +1,6 @@
 package ar.edu.uno.tpPOO;
 
-public abstract class Unidad implements Posiones{
+public abstract class Unidad{
 
 	
 		private int salud;
