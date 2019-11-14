@@ -19,10 +19,5 @@ public class Lancero extends Unidad{
 			}
 		}
 
-		@Override
-		public void darPosionDeAgua() {
-			// TODO Auto-generated method stub
-			
-		}
 	}
 
