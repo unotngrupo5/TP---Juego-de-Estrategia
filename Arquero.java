@@ -59,10 +59,5 @@ public class Arquero extends Unidad{
 		+ isVivo() + "";
 		}
 
-		@Override
-		public void darPosionDeAgua() {
-			// TODO Auto-generated method stub
-			
-		}
 	}
 	
