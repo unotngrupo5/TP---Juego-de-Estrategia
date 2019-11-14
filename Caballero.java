@@ -67,11 +67,6 @@ public class Caballero extends Unidad {
 			this.setCantataque(this.getCantataque() - this.getCosteatributo());
 		}
 
-		@Override
-		public void darPosionDeAgua() {
-			// TODO Auto-generated method stub
-			
-		}
 }
 	
 
