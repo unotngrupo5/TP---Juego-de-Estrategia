@@ -57,10 +57,6 @@ public class Soldado extends Unidad implements Pociones{
 		public void costeAtaque() {
 			this.setEnergia(this.getEnergia() - this.getCosteatributo());  	
 		}
-		@Override
-		public void darPosionDeAgua() {
-		this.setEnergia(100);
-			
-		}
+
 	}
 
