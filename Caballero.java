@@ -1,6 +1,6 @@
 package ar.edu.uno.tpPOO;
 
-public class Caballero extends Unidad {
+public class Caballero extends Unidad implements Pociones{
 
 		private  int cantataque;
 		 private static int cont=0;
