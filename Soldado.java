@@ -1,6 +1,6 @@
 package ar.edu.uno.tpPOO;
 
-public class Soldado extends Unidad {
+public class Soldado extends Unidad implements Pociones{
 	
 	
 		private int energia;
